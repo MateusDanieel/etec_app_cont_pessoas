@@ -1,4 +1,4 @@
-# etec_sebrae
+# My First Flutter App
 
 A new Flutter project.
 
